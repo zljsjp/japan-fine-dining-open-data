@@ -1,0 +1,7 @@
+city,restaurants,three_star,two_star,one_star,bib_gourmand,selected,online_bookable,online_bookable_pct,official_site,tablecheck,omakase,ikyu,hitosara,pocket_concierge,tabelog,english_menu,english_menu_pct,booking_window_documented,median_dinner_low_jpy,median_lunch_low_jpy
+tokyo,557,11,26,119,111,290,351,63.0,365,133,107,217,0,0,546,0,0.0,32,15000,8000
+osaka,247,3,12,66,59,107,224,90.7,129,65,41,121,191,0,241,0,0.0,9,15000,8000
+kyoto,258,6,19,72,47,114,167,64.7,154,48,18,140,1,0,244,0,0.0,14,15000,8000
+fukuoka,191,2,7,29,38,115,60,31.4,89,13,5,52,0,0,174,0,0.0,5,10000,4000
+nara,78,0,4,18,11,45,43,55.1,42,20,3,31,3,0,78,0,0.0,5,10000,6000
+total,1331,22,68,304,266,671,845,63.5,779,279,174,561,195,0,1283,0,0.0,65,15000,8000

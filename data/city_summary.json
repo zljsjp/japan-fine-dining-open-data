@@ -1,0 +1,562 @@
+{
+  "generated_date": "2026-11-27",
+  "city_summary": [
+    {
+      "city": "tokyo",
+      "restaurants": 557,
+      "three_star": 11,
+      "two_star": 26,
+      "one_star": 119,
+      "bib_gourmand": 111,
+      "selected": 290,
+      "online_bookable": 351,
+      "online_bookable_pct": 63.0,
+      "official_site": 365,
+      "tablecheck": 133,
+      "omakase": 107,
+      "ikyu": 217,
+      "hitosara": 0,
+      "pocket_concierge": 0,
+      "tabelog": 546,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "booking_window_documented": 32,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 8000
+    },
+    {
+      "city": "osaka",
+      "restaurants": 247,
+      "three_star": 3,
+      "two_star": 12,
+      "one_star": 66,
+      "bib_gourmand": 59,
+      "selected": 107,
+      "online_bookable": 224,
+      "online_bookable_pct": 90.7,
+      "official_site": 129,
+      "tablecheck": 65,
+      "omakase": 41,
+      "ikyu": 121,
+      "hitosara": 191,
+      "pocket_concierge": 0,
+      "tabelog": 241,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "booking_window_documented": 9,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 8000
+    },
+    {
+      "city": "kyoto",
+      "restaurants": 258,
+      "three_star": 6,
+      "two_star": 19,
+      "one_star": 72,
+      "bib_gourmand": 47,
+      "selected": 114,
+      "online_bookable": 167,
+      "online_bookable_pct": 64.7,
+      "official_site": 154,
+      "tablecheck": 48,
+      "omakase": 18,
+      "ikyu": 140,
+      "hitosara": 1,
+      "pocket_concierge": 0,
+      "tabelog": 244,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "booking_window_documented": 14,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 8000
+    },
+    {
+      "city": "fukuoka",
+      "restaurants": 191,
+      "three_star": 2,
+      "two_star": 7,
+      "one_star": 29,
+      "bib_gourmand": 38,
+      "selected": 115,
+      "online_bookable": 60,
+      "online_bookable_pct": 31.4,
+      "official_site": 89,
+      "tablecheck": 13,
+      "omakase": 5,
+      "ikyu": 52,
+      "hitosara": 0,
+      "pocket_concierge": 0,
+      "tabelog": 174,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "booking_window_documented": 5,
+      "median_dinner_low_jpy": 10000,
+      "median_lunch_low_jpy": 4000
+    },
+    {
+      "city": "nara",
+      "restaurants": 78,
+      "three_star": 0,
+      "two_star": 4,
+      "one_star": 18,
+      "bib_gourmand": 11,
+      "selected": 45,
+      "online_bookable": 43,
+      "online_bookable_pct": 55.1,
+      "official_site": 42,
+      "tablecheck": 20,
+      "omakase": 3,
+      "ikyu": 31,
+      "hitosara": 3,
+      "pocket_concierge": 0,
+      "tabelog": 78,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "booking_window_documented": 5,
+      "median_dinner_low_jpy": 10000,
+      "median_lunch_low_jpy": 6000
+    },
+    {
+      "city": "total",
+      "restaurants": 1331,
+      "three_star": 22,
+      "two_star": 68,
+      "one_star": 304,
+      "bib_gourmand": 266,
+      "selected": 671,
+      "online_bookable": 845,
+      "online_bookable_pct": 63.5,
+      "official_site": 779,
+      "tablecheck": 279,
+      "omakase": 174,
+      "ikyu": 561,
+      "hitosara": 195,
+      "pocket_concierge": 0,
+      "tabelog": 1283,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "booking_window_documented": 65,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 8000
+    }
+  ],
+  "tier_summary": [
+    {
+      "tier": "Three Stars",
+      "restaurants": 22,
+      "online_bookable": 21,
+      "online_bookable_pct": 95.5,
+      "official_site": 20,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "median_dinner_low_jpy": 50000,
+      "median_lunch_low_jpy": 25000
+    },
+    {
+      "tier": "Two Stars",
+      "restaurants": 68,
+      "online_bookable": 60,
+      "online_bookable_pct": 88.2,
+      "official_site": 59,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "median_dinner_low_jpy": 30000,
+      "median_lunch_low_jpy": 15000
+    },
+    {
+      "tier": "One Star",
+      "restaurants": 304,
+      "online_bookable": 254,
+      "online_bookable_pct": 83.6,
+      "official_site": 207,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "tier": "Bib Gourmand",
+      "restaurants": 266,
+      "online_bookable": 96,
+      "online_bookable_pct": 36.1,
+      "official_site": 124,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "median_dinner_low_jpy": 6000,
+      "median_lunch_low_jpy": 2000
+    },
+    {
+      "tier": "Michelin Selected",
+      "restaurants": 671,
+      "online_bookable": 414,
+      "online_bookable_pct": 61.7,
+      "official_site": 369,
+      "english_menu": 0,
+      "english_menu_pct": 0.0,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 8000
+    }
+  ],
+  "cuisine_benchmarks": [
+    {
+      "city": "tokyo",
+      "cuisine": "french",
+      "restaurants": 146,
+      "online_bookable_pct": 74.0,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "kaiseki",
+      "restaurants": 100,
+      "online_bookable_pct": 72.0,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "italian",
+      "restaurants": 60,
+      "online_bookable_pct": 66.7,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "sushi",
+      "restaurants": 57,
+      "online_bookable_pct": 61.4,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "chinese",
+      "restaurants": 37,
+      "online_bookable_pct": 70.3,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 6000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "tempura",
+      "restaurants": 20,
+      "online_bookable_pct": 40.0,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "innovative",
+      "restaurants": 17,
+      "online_bookable_pct": 82.4,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 12500
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "ramen",
+      "restaurants": 15,
+      "online_bookable_pct": 20.0,
+      "median_dinner_low_jpy": 1000,
+      "median_lunch_low_jpy": 1000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "soba",
+      "restaurants": 15,
+      "online_bookable_pct": 26.7,
+      "median_dinner_low_jpy": 6000,
+      "median_lunch_low_jpy": 2000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "yakitori",
+      "restaurants": 14,
+      "online_bookable_pct": 78.6,
+      "median_dinner_low_jpy": 10000,
+      "median_lunch_low_jpy": 3000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "eel",
+      "restaurants": 10,
+      "online_bookable_pct": 30.0,
+      "median_dinner_low_jpy": 9000,
+      "median_lunch_low_jpy": 5000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "spanish",
+      "restaurants": 8,
+      "online_bookable_pct": 37.5,
+      "median_dinner_low_jpy": 12500,
+      "median_lunch_low_jpy": 6000
+    },
+    {
+      "city": "tokyo",
+      "cuisine": "tonkatsu",
+      "restaurants": 8,
+      "online_bookable_pct": 12.5,
+      "median_dinner_low_jpy": 2000,
+      "median_lunch_low_jpy": 2000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "kaiseki",
+      "restaurants": 66,
+      "online_bookable_pct": 98.5,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "french",
+      "restaurants": 34,
+      "online_bookable_pct": 85.3,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 9000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "sushi",
+      "restaurants": 25,
+      "online_bookable_pct": 88.0,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 20000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "italian",
+      "restaurants": 21,
+      "online_bookable_pct": 81.0,
+      "median_dinner_low_jpy": 12500,
+      "median_lunch_low_jpy": 8000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "tempura",
+      "restaurants": 14,
+      "online_bookable_pct": 92.9,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 5000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "chinese",
+      "restaurants": 12,
+      "online_bookable_pct": 100.0,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 8000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "yakitori",
+      "restaurants": 11,
+      "online_bookable_pct": 72.7,
+      "median_dinner_low_jpy": 10000,
+      "median_lunch_low_jpy": 15000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "spanish",
+      "restaurants": 9,
+      "online_bookable_pct": 100.0,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 3000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "ramen",
+      "restaurants": 7,
+      "online_bookable_pct": 85.7,
+      "median_dinner_low_jpy": 1000,
+      "median_lunch_low_jpy": 1000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "innovative",
+      "restaurants": 6,
+      "online_bookable_pct": 100.0,
+      "median_dinner_low_jpy": 30000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "osaka",
+      "cuisine": "soba",
+      "restaurants": 6,
+      "online_bookable_pct": 83.3,
+      "median_dinner_low_jpy": 1500,
+      "median_lunch_low_jpy": 1000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "kaiseki",
+      "restaurants": 128,
+      "online_bookable_pct": 77.3,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "french",
+      "restaurants": 23,
+      "online_bookable_pct": 78.3,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "italian",
+      "restaurants": 18,
+      "online_bookable_pct": 77.8,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "sushi",
+      "restaurants": 13,
+      "online_bookable_pct": 38.5,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 6500
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "innovative",
+      "restaurants": 11,
+      "online_bookable_pct": 81.8,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 12500
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "soba",
+      "restaurants": 9,
+      "online_bookable_pct": 0.0,
+      "median_dinner_low_jpy": 3000,
+      "median_lunch_low_jpy": 1000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "tempura",
+      "restaurants": 8,
+      "online_bookable_pct": 62.5,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 7000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "chinese",
+      "restaurants": 7,
+      "online_bookable_pct": 57.1,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 8000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "ramen",
+      "restaurants": 6,
+      "online_bookable_pct": 16.7,
+      "median_dinner_low_jpy": 1000,
+      "median_lunch_low_jpy": 1000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "eel",
+      "restaurants": 5,
+      "online_bookable_pct": 20.0,
+      "median_dinner_low_jpy": 3500,
+      "median_lunch_low_jpy": 4000
+    },
+    {
+      "city": "kyoto",
+      "cuisine": "yakitori",
+      "restaurants": 5,
+      "online_bookable_pct": 80.0,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": ""
+    },
+    {
+      "city": "fukuoka",
+      "cuisine": "kaiseki",
+      "restaurants": 44,
+      "online_bookable_pct": 40.9,
+      "median_dinner_low_jpy": 10000,
+      "median_lunch_low_jpy": 10000
+    },
+    {
+      "city": "fukuoka",
+      "cuisine": "sushi",
+      "restaurants": 24,
+      "online_bookable_pct": 45.8,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 9000
+    },
+    {
+      "city": "fukuoka",
+      "cuisine": "soba",
+      "restaurants": 6,
+      "online_bookable_pct": 16.7,
+      "median_dinner_low_jpy": 5000,
+      "median_lunch_low_jpy": 1000
+    },
+    {
+      "city": "fukuoka",
+      "cuisine": "ramen",
+      "restaurants": 5,
+      "online_bookable_pct": 0.0,
+      "median_dinner_low_jpy": 1000,
+      "median_lunch_low_jpy": 999
+    },
+    {
+      "city": "fukuoka",
+      "cuisine": "yakitori",
+      "restaurants": 5,
+      "online_bookable_pct": 0.0,
+      "median_dinner_low_jpy": 8000,
+      "median_lunch_low_jpy": ""
+    },
+    {
+      "city": "nara",
+      "cuisine": "kaiseki",
+      "restaurants": 26,
+      "online_bookable_pct": 50.0,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 7000
+    },
+    {
+      "city": "nara",
+      "cuisine": "french",
+      "restaurants": 14,
+      "online_bookable_pct": 71.4,
+      "median_dinner_low_jpy": 10000,
+      "median_lunch_low_jpy": 5500
+    },
+    {
+      "city": "nara",
+      "cuisine": "italian",
+      "restaurants": 11,
+      "online_bookable_pct": 45.5,
+      "median_dinner_low_jpy": 9000,
+      "median_lunch_low_jpy": 5000
+    },
+    {
+      "city": "nara",
+      "cuisine": "innovative",
+      "restaurants": 5,
+      "online_bookable_pct": 100.0,
+      "median_dinner_low_jpy": 20000,
+      "median_lunch_low_jpy": 15000
+    },
+    {
+      "city": "nara",
+      "cuisine": "sushi",
+      "restaurants": 5,
+      "online_bookable_pct": 80.0,
+      "median_dinner_low_jpy": 15000,
+      "median_lunch_low_jpy": 10000
+    }
+  ]
+}

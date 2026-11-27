@@ -1,0 +1,6 @@
+tier,restaurants,online_bookable,online_bookable_pct,official_site,english_menu,english_menu_pct,median_dinner_low_jpy,median_lunch_low_jpy
+Three Stars,22,21,95.5,20,0,0.0,50000,25000
+Two Stars,68,60,88.2,59,0,0.0,30000,15000
+One Star,304,254,83.6,207,0,0.0,20000,10000
+Bib Gourmand,266,96,36.1,124,0,0.0,6000,2000
+Michelin Selected,671,414,61.7,369,0,0.0,15000,8000
