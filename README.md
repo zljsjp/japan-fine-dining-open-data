@@ -4,6 +4,7 @@ Aggregate, machine-readable statistics covering **1331 Michelin-recognized resta
 
 - **Last updated**: `2026-11-27` (auto-synced monthly)
 - **Primary site**: https://finediningindex.com/
+- **Japanese Data Column (note.com)**: https://note.com/kuishinbo777
 - **2026 Booking Access Field Audit (108 venues)**: https://finediningindex.com/en/reports/booking-access-2026/ ([CSV](https://finediningindex.com/reports/booking-access-2026.csv))
 - **License**: CC BY 4.0 (aggregate tables & charts)
 
